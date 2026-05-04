@@ -1,5 +1,5 @@
 # Aula 11 – Redes de Computadores: Topologias, Dispositivos e Meios
-
+Nome(s) dos estudante(s): Gianne Clarice e Dvai Lemes 
 ## Objetivo
 Entender a organização física e lógica das redes, identificar os principais dispositivos e reconhecer os diferentes meios de transmissão.
 

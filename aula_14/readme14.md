@@ -49,3 +49,10 @@ Cada grupo deve incluir neste repositório:
 ## Reflexão Individual
 Cada estudante deve produzir um texto curto (1 página) respondendo:  
 **“Por que o fator humano é considerado o elo mais frágil da segurança da informação?”**
+
+## Referências
+PODER360. 11 de Setembro: EUA tiveram salto tecnológico nos últimos 20 anos. Poder360, 2021. Disponível em: Poder360. Acesso em: 25 maio 2026.
+UNIVERSIDADE DE SÃO PAULO (USP). Falhas de segurança. Instituto de Matemática e Estatística da USP, 2001. Disponível em: IME-USP. Acesso em: 25 maio 2026.
+YOUTUBE. Tudo sobre o 11 de setembro. YouTube, [s.d.]. Disponível em: YouTube - Tudo sobre o 11 de setembro. Acesso em: 25 maio 2026.
+WIKIPÉDIA. Ataques de 11 de setembro de 2001. Wikipédia, a enciclopédia livre. Disponível em: Wikipédia - Ataques de 11 de setembro de 2001. Acesso em: 25 maio 2026.
+REVISTA DE SOCIOLOGIA E POLÍTICA. Artigo disponível na SciELO. SciELO Brasil. Disponível em: SciELO Brasil. Acesso em: 25 maio 2026.

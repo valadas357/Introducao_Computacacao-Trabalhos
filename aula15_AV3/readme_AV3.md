@@ -1,6 +1,12 @@
 # Avaliação 3 – Unidade 5  
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
+### Integrantes do Grupo 07
+   - Guilherme Valadão
+   - Davi Lemes
+   - João Miguel
+   - Gianne Clarice
+
 ### Objetivo
 Produzir um **artefato criativo** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
 
@@ -42,12 +48,6 @@ Agora, cada grupo deverá escolher uma **cartilha oficial** disponível no [CERT
 
 4. **Apresentação em sala**  
    - Cada grupo terá 5 minutos para apresentar seu artefato e explicar como ele aborda a ameaça escolhida.
-
-### Integrantes do Grupo
-   - Guilherme Valadão
-   - Davi Lemes
-   - João Miguel
-   - Gianne Clarice
 
 ---
 

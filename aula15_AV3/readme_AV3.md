@@ -43,7 +43,7 @@ Agora, cada grupo deverá escolher uma **cartilha oficial** disponível no [CERT
 4. **Apresentação em sala**  
    - Cada grupo terá 5 minutos para apresentar seu artefato e explicar como ele aborda a ameaça escolhida.
 
-###Integrantes do Grupo
+### Integrantes do Grupo
    - Guilherme Valadão
    - Davi Lemes
    - João Miguel
